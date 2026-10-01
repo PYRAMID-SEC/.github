@@ -32,10 +32,13 @@ We focus on the problems that decide real assessments:
 
 | | |
 |---|---|
-| 🌐 **Web and API security** | Authentication, authorization, access control, injection, business logic |
-| 🤖 **AI and LLM security** | Prompt injection, tool abuse, agent trust boundaries, secret handling |
-| 📦 **Container and cloud** | Project isolation, misconfigurations, exposed services |
-| 🔍 **Reconnaissance** | Attack surface discovery, parameter and endpoint analysis |
+|  **Web and API security** | Authentication, authorization, access control, injection, business logic |
+|  **cloud and Infrastructure** | Project isolation, misconfigurations, exposed services |
+|  **Secure Code Review** | Manual review for logic flaws, hardcoded secrets, and insecure coding patterns |
+|  **Cloud and Third-Party Integrations** | Over-privileged access, misconfigurations, and exposure in cloud, SaaS, and integrations |
+|  **Attack Surface Discovery** | Continuous mapping of subdomains, exposed services, parameters, endpoints, and leaks |
+|  **AI and LLM Security** | Prompt injection, tool abuse, data exfiltration, agent trust boundaries, and guardrail bypass |
+|  **Containers and Isolation** | Project and tenant isolation, container escape paths, and secret handling |
 
 ---
 
@@ -80,10 +83,9 @@ We publish **only after responsible disclosure is complete**.
 ## 🤝 Contribute
 
 We welcome tool ideas, bug reports, write-ups, labs, and pull requests.
-
-1. 🔎 Browse our repositories and open an issue to discuss your idea
-2. 🍴 Fork the repository and build your change
-3. 📬 Submit a pull request following the project's `CONTRIBUTING.md`
+1.  Browse our repositories and open an issue to discuss your idea
+2.  Fork the repository and build your change
+3.  Submit a pull request following the project's `CONTRIBUTING.md`
 
 New to open source? Look for issues labeled **`good first issue`**.
 
