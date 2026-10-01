@@ -42,7 +42,7 @@ We focus on the problems that decide real assessments:
 
 ---
 
-## ⚙️ How it works
+##  How it works
 
 Every PyramidSec project follows one principle: **automate discovery, validate manually, publish openly.**
 
@@ -63,7 +63,7 @@ flowchart LR
 
 
 
-## 🔬 Research
+##  Research
 
 We publish **only after responsible disclosure is complete**.
 
@@ -80,7 +80,7 @@ We publish **only after responsible disclosure is complete**.
 
 ---
 
-## 🤝 Contribute
+##  Contribute
 
 We welcome tool ideas, bug reports, write-ups, labs, and pull requests.
 1.  Browse our repositories and open an issue to discuss your idea
