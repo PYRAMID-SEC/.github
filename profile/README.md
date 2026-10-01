@@ -7,6 +7,7 @@
 ### Think like the attacker. Build like the defender.
 
 **An open-source cybersecurity organization, built in Egypt for the global security community.**
+## Founded by **Ahmed Tarek Salah**  ([@thaqib](https://github.com/ahmed-tarek22752))
 
 <br/>
 
@@ -19,7 +20,7 @@
 
 ## 🔺 The Mission
 
-PyramidSec is a **non-profit, student-led, open-source cybersecurity initiative**. founded by **Ahmed Tarek Salah**  ([@thaqib](https://github.com/ahmed-tarek22752)) .We build practical offensive and defensive security automation, publish the research behind it, and train the next generation of Egyptian and Arab security researchers.
+PyramidSec is a **non-profit, student-led, open-source cybersecurity initiative**. We build practical offensive and defensive security automation, publish the research behind it, and train the next generation of Egyptian and Arab security researchers.
 
 > **Security should be automated where machines are fast, and validated where humans are sharp.**
 
