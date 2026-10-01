@@ -10,11 +10,6 @@
 
 <br/>
 
-![License](https://img.shields.io/badge/license-open--source-E11D2E?style=for-the-badge&labelColor=0A0A10)
-![Focus](https://img.shields.io/badge/focus-offensive%20security-E11D2E?style=for-the-badge&labelColor=0A0A10)
-![AI Security](https://img.shields.io/badge/AI%20%26%20LLM-security-E11D2E?style=for-the-badge&labelColor=0A0A10)
-![Made in Egypt](https://img.shields.io/badge/made%20in-Egypt-E11D2E?style=for-the-badge&labelColor=0A0A10)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-E11D2E?style=for-the-badge&labelColor=0A0A10)
 
 <br/>
 
