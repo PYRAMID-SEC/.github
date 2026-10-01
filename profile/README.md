@@ -20,7 +20,7 @@
 
 ## 🔺 The Mission
 
-PyramidSec is a **non-profit, student-led, open-source cybersecurity initiative**. We build practical offensive and defensive security automation, publish the research behind it, and train the next generation of Egyptian and Arab security researchers.
+PyramidSec is a **non-profit, student-led, open-source cybersecurity initiative**. We build practical offensive and defensive security automation, publish the research behind it, and train the next generation of to learners worldwide. Everything we create is **free and open**, so anyone can learn by contributing to security tools and projects.
 
 > **Security should be automated where machines are fast, and validated where humans are sharp.**
 
@@ -87,7 +87,7 @@ New to open source? Look for issues labeled **`good first issue`**.
 
 ---
 
-## 🛡️ Responsible Disclosure
+##  Responsible Disclosure
 
 Found a vulnerability in one of our projects? Please contact us privately at **[your-email@domain]** before disclosing publicly. We acknowledge reports and credit researchers who report in good faith.
 
