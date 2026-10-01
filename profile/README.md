@@ -88,18 +88,6 @@ We publish **only after responsible disclosure is complete**.
 
 ---
 
-## 🎓 Academy
-
-Knowledge belongs to everyone. The PyramidSec Academy offers:
-
-| Track | For | What you get |
-|---|---|---|
-| 🌱 **Foundations** | Beginners | Networking, Linux, web basics, first CTF challenges |
-| ⚔️ **Offensive Security** | Intermediate | Web exploitation, API testing, bug bounty methodology |
-| 🛡️ **Secure Engineering** | Developers | Secure code review, threat modeling, defensive design |
-| 🏆 **Competitor Track** | Advanced | CTF preparation, team practice, research projects |
-
-**Weekly hands-on challenges** run on intentionally vulnerable applications, with write-ups and mentoring for every level.
 
 ---
 
@@ -117,15 +105,6 @@ Knowledge belongs to everyone. The PyramidSec Academy offers:
 
 ---
 
-## 🏛️ Principles
-
-| | |
-|---|---|
-| **Practical first** | Tools and labs built from real testing experience |
-| **Open by default** | Every project is open source, with a clear license |
-| **Responsible always** | Disclose first, publish after the fix |
-| **Beginner friendly** | Everyone starts somewhere, and we help people start |
-| **Student led** | Built by students, for students and professionals alike |
 
 ---
 
