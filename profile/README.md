@@ -1,74 +1,166 @@
 <div align="center">
 
-# PyramidSec
+<img src="https://raw.githubusercontent.com/pyramidsec/.github/main/profile/pyramidsec-logo.png" alt="PyramidSec" width="640" />
 
-### The Open-Source Security Initiative
+<br/>
 
-**Built in Egypt. Built for the global security community.**
+### Automate the attack surface. Open the knowledge.
 
-Offensive security tools, vulnerability research, and hands-on learning resources, all open source.
+**An open-source cybersecurity organization, built in Egypt for the global security community.**
 
-[Tools](#the-toolkit) · [Research](#research) · [Learn](#learn) · [Contribute](#contribute)
+<br/>
+
+![License](https://img.shields.io/badge/license-open--source-E11D2E?style=for-the-badge&labelColor=0A0A10)
+![Focus](https://img.shields.io/badge/focus-offensive%20security-E11D2E?style=for-the-badge&labelColor=0A0A10)
+![AI Security](https://img.shields.io/badge/AI%20%26%20LLM-security-E11D2E?style=for-the-badge&labelColor=0A0A10)
+![Made in Egypt](https://img.shields.io/badge/made%20in-Egypt-E11D2E?style=for-the-badge&labelColor=0A0A10)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-E11D2E?style=for-the-badge&labelColor=0A0A10)
+
+<br/>
+
+[**The Mission**](#-the-mission) &nbsp;•&nbsp; [**Platform**](#-how-it-works) &nbsp;•&nbsp; [**Toolkit**](#-the-toolkit) &nbsp;•&nbsp; [**Research**](#-research) &nbsp;•&nbsp; [**Academy**](#-academy) &nbsp;•&nbsp; [**Roadmap**](#-roadmap) &nbsp;•&nbsp; [**Contribute**](#-contribute)
 
 </div>
 
 ---
 
-## Who we are
+## 🔺 The Mission
 
-PyramidSec is an open-source security initiative founded to build practical offensive and defensive security tooling and to make security knowledge accessible to the next generation of researchers.
+PyramidSec is a **non-profit, student-led, open-source cybersecurity initiative**. We build practical offensive and defensive security automation, publish the research behind it, and train the next generation of Egyptian and Arab security researchers.
 
-We focus on the work that matters in real assessments: web and API security, authentication and authorization boundaries, container and agent security, and AI/LLM security.
+> **Security should be automated where machines are fast, and validated where humans are sharp.**
 
-## The toolkit
+We focus on the problems that decide real assessments:
 
-Our roadmap targets **25+ open-source security tools** across six categories. Status is updated as each tool ships.
+| | |
+|---|---|
+| 🌐 **Web and API security** | Authentication, authorization, access control, injection, business logic |
+| 🤖 **AI and LLM security** | Prompt injection, tool abuse, agent trust boundaries, secret handling |
+| 📦 **Container and cloud** | Project isolation, misconfigurations, exposed services |
+| 🔍 **Reconnaissance** | Attack surface discovery, parameter and endpoint analysis |
 
-| Category | Focus | Status |
+---
+
+## ⚙️ How it works
+
+Every PyramidSec project follows one principle: **automate discovery, validate manually, publish openly.**
+
+```mermaid
+flowchart LR
+    A[Recon & Discovery] --> B[Automated Analysis]
+    B --> C[Human Validation]
+    C --> D[Responsible Disclosure]
+    D --> E[Open Research & Tools]
+    E -.feeds.-> A
+
+    style A fill:#0A0A10,stroke:#E11D2E,color:#fff
+    style B fill:#0A0A10,stroke:#E11D2E,color:#fff
+    style C fill:#E11D2E,stroke:#E11D2E,color:#fff
+    style D fill:#0A0A10,stroke:#E11D2E,color:#fff
+    style E fill:#0A0A10,stroke:#E11D2E,color:#fff
+```
+
+---
+
+## 🧰 The Toolkit
+
+Our target is **25+ open-source security tools** across six pillars. Status updates as each tool ships.
+
+| Pillar | What we are building | Status |
 |---|---|---|
-| Recon & Discovery | Subdomain, parameter, and endpoint enumeration | In development |
-| Web & API Testing | Access control, injection, auth flaws, CORS and header misconfigurations | In development |
-| AI & LLM Security | Prompt injection, tool abuse, agent trust boundaries | Planned |
-| Code & Secrets | Secure code review helpers, secret detection | Planned |
-| Container & Cloud | Isolation checks, misconfiguration auditing | Planned |
-| Learning Labs | Intentionally vulnerable apps for practice | In development |
+| 🔍 **Recon and Discovery** | Subdomain, parameter, and endpoint enumeration | 🟡 In development |
+| 🌐 **Web and API Testing** | Access control, injection, auth flaws, CORS and header checks | 🟡 In development |
+| 🤖 **AI and LLM Security** | Prompt injection, tool abuse, agent boundary testing | 🔵 Planned |
+| 🔐 **Code and Secrets** | Secure code review helpers, secret detection | 🔵 Planned |
+| 📦 **Container and Cloud** | Isolation checks, misconfiguration auditing | 🔵 Planned |
+| 🧪 **Learning Labs** | Intentionally vulnerable apps for hands-on practice | 🟡 In development |
 
-## Research
+> 📌 Each repository carries its own license. See the `LICENSE` file in each project.
 
-- Vulnerability research and write-ups, published after responsible disclosure
-- Architecture and trust-boundary analysis of open-source platforms
-- CTF write-ups covering web, crypto, reverse engineering, and forensics
+---
 
-## Learn
+## 🔬 Research
 
-- Beginner-to-advanced learning paths for aspiring security researchers
-- Weekly hands-on challenges built on intentionally vulnerable applications
-- Study guides and roadmaps for CTFs and bug bounty
+We publish **only after responsible disclosure is complete**.
 
-## Why PyramidSec
+- **Vulnerability research** with reproduction steps, impact analysis, and fixes
+- **Architecture and trust-boundary reviews** of open-source platforms
+- **AI agent security** research: tool permissions, isolation, and secret handling
+- **CTF write-ups** covering web exploitation, cryptography, reverse engineering, and forensics
 
-- **Practical first.** Tools and labs built from real testing experience.
-- **Open by default.** Every project carries its own license.
-- **Responsible.** Research is published only after issues are fixed or disclosure is complete.
-- **Community-driven.** Beginners and experienced researchers are both welcome.
+---
 
-## Contribute
+## 🎓 Academy
 
-We welcome tool ideas, bug reports, write-ups, and pull requests.
-1. Browse our repositories and open an issue to discuss your idea
-2. Fork, build, and submit a pull request
-3. Read each repository's `CONTRIBUTING.md` and `LICENSE`
+Knowledge belongs to everyone. The PyramidSec Academy offers:
 
-## Responsible disclosure
+| Track | For | What you get |
+|---|---|---|
+| 🌱 **Foundations** | Beginners | Networking, Linux, web basics, first CTF challenges |
+| ⚔️ **Offensive Security** | Intermediate | Web exploitation, API testing, bug bounty methodology |
+| 🛡️ **Secure Engineering** | Developers | Secure code review, threat modeling, defensive design |
+| 🏆 **Competitor Track** | Advanced | CTF preparation, team practice, research projects |
 
-Found a vulnerability in one of our projects? Contact us privately at **[your-email@domain]** before disclosing publicly.
+**Weekly hands-on challenges** run on intentionally vulnerable applications, with write-ups and mentoring for every level.
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Establish the organization and mission
+- [ ] Publish the first open-source tools
+- [ ] Launch the Academy learning paths
+- [ ] Release the vulnerable labs collection
+- [ ] Run the first PyramidSec CTF
+- [ ] Reach 10 open-source projects
+- [ ] Reach 25+ open-source tools
+- [ ] Publish the first research reports
+- [ ] Open contributor onboarding and a mentorship program
+
+---
+
+## 🏛️ Principles
+
+| | |
+|---|---|
+| **Practical first** | Tools and labs built from real testing experience |
+| **Open by default** | Every project is open source, with a clear license |
+| **Responsible always** | Disclose first, publish after the fix |
+| **Beginner friendly** | Everyone starts somewhere, and we help people start |
+| **Student led** | Built by students, for students and professionals alike |
+
+---
+
+## 🤝 Contribute
+
+We welcome tool ideas, bug reports, write-ups, labs, and pull requests.
+
+1. 🔎 Browse our repositories and open an issue to discuss your idea
+2. 🍴 Fork the repository and build your change
+3. 📬 Submit a pull request following the project's `CONTRIBUTING.md`
+
+New to open source? Look for issues labeled **`good first issue`**.
+
+---
+
+## 🛡️ Responsible Disclosure
+
+Found a vulnerability in one of our projects? Please contact us privately at **[your-email@domain]** before disclosing publicly. We acknowledge reports and credit researchers who report in good faith.
+
+> Our tools are for **authorized security testing and education only**. Use them only on systems you own or have explicit permission to test.
 
 ---
 
 <div align="center">
 
-**PyramidSec**: Secure the future, one open-source tool at a time.
+### 🔺 PyramidSec
 
-[GitHub](https://github.com/pyramidsec) · [LinkedIn](#) · [X](#)
+**Secure the future, one open-source tool at a time.**
+
+<br/>
+
+[GitHub](https://github.com/pyramidsec) &nbsp;•&nbsp; [LinkedIn](#) &nbsp;•&nbsp; [X](#) &nbsp;•&nbsp; [Contact](#)
+
+<sub>Non-profit • Student-led • Open-source cybersecurity</sub>
 
 </div>
