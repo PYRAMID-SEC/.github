@@ -58,24 +58,7 @@ flowchart LR
     style E fill:#0A0A10,stroke:#E11D2E,color:#fff
 ```
 
----
 
-## 🧰 The Toolkit
-
-Our target is **25+ open-source security tools** across six pillars. Status updates as each tool ships.
-
-| Pillar | What we are building | Status |
-|---|---|---|
-| 🔍 **Recon and Discovery** | Subdomain, parameter, and endpoint enumeration | 🟡 In development |
-| 🌐 **Web and API Testing** | Access control, injection, auth flaws, CORS and header checks | 🟡 In development |
-| 🤖 **AI and LLM Security** | Prompt injection, tool abuse, agent boundary testing | 🔵 Planned |
-| 🔐 **Code and Secrets** | Secure code review helpers, secret detection | 🔵 Planned |
-| 📦 **Container and Cloud** | Isolation checks, misconfiguration auditing | 🔵 Planned |
-| 🧪 **Learning Labs** | Intentionally vulnerable apps for hands-on practice | 🟡 In development |
-
-> 📌 Each repository carries its own license. See the `LICENSE` file in each project.
-
----
 
 ## 🔬 Research
 
@@ -89,21 +72,7 @@ We publish **only after responsible disclosure is complete**.
 ---
 
 
----
 
-## 🗺️ Roadmap
-
-- [x] Establish the organization and mission
-- [ ] Publish the first open-source tools
-- [ ] Launch the Academy learning paths
-- [ ] Release the vulnerable labs collection
-- [ ] Run the first PyramidSec CTF
-- [ ] Reach 10 open-source projects
-- [ ] Reach 25+ open-source tools
-- [ ] Publish the first research reports
-- [ ] Open contributor onboarding and a mentorship program
-
----
 
 
 ---
