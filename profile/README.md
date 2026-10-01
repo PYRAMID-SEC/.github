@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pyramidsec/.github/main/profile/pyramidsec-logo.png" alt="PyramidSec" width="640" />
+<img src="https://raw.githubusercontent.com/pyramidsec/.github/main/profile/pyramid.png" alt="PyramidSec" width="640" />
 
 <br/>
 
