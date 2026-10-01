@@ -18,8 +18,6 @@
 
 <br/>
 
-[**The Mission**](#-the-mission) &nbsp;•&nbsp; [**Platform**](#-how-it-works) &nbsp;•&nbsp; [**Toolkit**](#-the-toolkit) &nbsp;•&nbsp; [**Research**](#-research) &nbsp;•&nbsp; [**Academy**](#-academy) &nbsp;•&nbsp; [**Roadmap**](#-roadmap) &nbsp;•&nbsp; [**Contribute**](#-contribute)
-
 </div>
 
 ---
