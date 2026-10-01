@@ -4,7 +4,7 @@
 
 <br/>
 
-### Automate the attack surface. Open the knowledge.
+### Think like the attacker. Build like the defender.
 
 **An open-source cybersecurity organization, built in Egypt for the global security community.**
 
