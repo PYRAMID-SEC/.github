@@ -89,8 +89,7 @@ New to open source? Look for issues labeled **`good first issue`**.
 
 ##  Responsible Disclosure
 
-Found a vulnerability in one of our projects? Please contact us privately at **[your-email@domain]** before disclosing publicly. We acknowledge reports and credit researchers who report in good faith.
-
+Found a vulnerability or real issue in one of our projects? Please contact us privately at **pyramidsec0@gmail.com** before disclosing publicly.
 > Our tools are for **authorized security testing and education only**. Use them only on systems you own or have explicit permission to test.
 
 ---
@@ -107,7 +106,7 @@ Found a vulnerability in one of our projects? Please contact us privately at **[
 
 <br/>
 
-[GitHub](https://github.com/pyramidsec) &nbsp;•&nbsp; [LinkedIn](#) &nbsp;•&nbsp; [X](#) &nbsp;•&nbsp; [Contact](#)
+[GitHub](https://github.com/pyramidsec) &nbsp;•&nbsp; [LinkedIn](#) &nbsp;•&nbsp; [Contact](#)
 
 <sub>Non-profit • Student-led • Open-source cybersecurity</sub>
 
