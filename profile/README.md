@@ -99,7 +99,11 @@ Found a vulnerability in one of our projects? Please contact us privately at **[
 
 ### 🔺 PyramidSec
 
-**Secure the future, one open-source tool at a time.**
+## Open source
+**We publish select tools and research for the community. Each repository carries its own license; see the LICENSE file in that repository.**
+
+
+
 
 <br/>
 
