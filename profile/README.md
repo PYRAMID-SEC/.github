@@ -106,7 +106,7 @@ Found a vulnerability or real issue in one of our projects? Please contact us pr
 
 <br/>
 
-[GitHub](https://github.com/pyramidsec) &nbsp;•&nbsp;  &nbsp;•&nbsp; [Contact](#)
+
 
 <sub>Non-profit • Student-led • Open-source cybersecurity</sub>
 
