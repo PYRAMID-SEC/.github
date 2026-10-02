@@ -100,7 +100,7 @@ Found a vulnerability in one of our projects? Please contact us privately at **[
 ### 🔺 PyramidSec
 
 ## Open source
-**We publish select tools and research for the community. Each repository carries its own license; see the LICENSE file in that repository.**
+**We release our tools and research openly for the security community. Licensing is set per project, so check the `LICENSE` file in each repository before you use or modify our code.**
 
 
 
